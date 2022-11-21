@@ -1,0 +1,13 @@
+{
+  "id" : "https://ElsaVK.github.io/FlohrManuscrit/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in ElsaVK/FlohrManuscrit project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ElsaVK.github.io/FlohrManuscrit/manifests/ManifestFlohrPerso2.json",
+    "label" : "Médiathèque André Malraux, Strasbourg. MS 15"
+  } ]
+}
